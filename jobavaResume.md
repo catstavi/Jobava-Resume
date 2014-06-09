@@ -8,7 +8,7 @@ I am looking to expand and deepen my introductory knowledge of programming and c
 
 ###**Education**
 
-University of California at Santa Cruz  
+University of California at Santa Cruz  (UCSC)
 B.A. in Linguistics 2011  
 GPA 3.56  
 
@@ -32,7 +32,7 @@ GPA 3.56
  
 +  Maintaining pool area and equipment  
 +  Addressing instructors' needs during their lessons  
-+  Informing clients about of facility rules  
++  Informing clients about facility rules  
 
 #### Teach & Learn with Georgia:  *July 2011 - Jan 2013*  (Republic of Georgia) 
 **English as a Second Language Teacher**  
@@ -46,7 +46,7 @@ GPA 3.56
 
 +  Searching databases for appropriate speech corpora  
 +  Tagging and labeling speech files using Praat  
-+  Implemented the use of new software (DropBox) to facilitate work between assistants
++  Implemented the use of new software (DropBox) to facilitate teamwork between assistants
 
 ####UCSC Linguistics Department: *April 2011 - June 2011*  
 **Tutor for Native American Languages Course**  
