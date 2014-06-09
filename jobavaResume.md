@@ -4,11 +4,11 @@ Cate Jobava
 
 ###**Objective**
 
-I am looking to expand and deepen my introductory knowledge of programming and computer science into an employable level. I want to  a skill set that will let me create my own applications, as well as give me the tools to contribute substantially to the work of teams on larger scale projects in a professional environment. As a long term goal, I would like to develop expertise in the area of Natural Language Processing.
+I am looking to expand and deepen my introductory knowledge of programming and computer science into an employable level. I want to develope a skill set that will let me create my own applications, as well as give me the tools to contribute substantially to the work of teams on larger scale projects in a professional environment. As a long term goal, I would like to develop expertise in the area of Natural Language Processing.
 
 ###**Education**
 
-University of California at Santa Cruz  (UCSC)
+University of California at Santa Cruz (UCSC)  
 B.A. in Linguistics 2011  
 GPA 3.56  
 
