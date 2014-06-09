@@ -2,18 +2,18 @@ Cate Jobava
 ============
 ####cathode.use@gmail.com | 510-396-9326 
 
-##**Objective**
+###**Objective**
 
 I am looking to expand and deepen my introductory knowledge of programming and computer science into a skill set that will let me develop my own applications, as well as give me the tools to contribute substantially to the work of teams on larger scale projects in a professional environment. As a long term goal, I would like to develop expertise in the area of Natural Language Processing.
 
-##**Education**
+###**Education**
 
 University of California at Santa Cruz  
 B.A. in Linguistics 2011  
 GPA 3.56  
 
-##**Work History**
-###Patti's Swim School:  *Oct 2013 - Present* 
+###**Work History**
+####Patti's Swim School:  *Oct 2013 - Present* 
 
 **Scheduling & Billing Coordinator** 
  
@@ -34,26 +34,26 @@ GPA 3.56
 +  Addressing instructors' needs  
 +  Keeping clients aware of facility rules  
 
-### Teach & Learn with Georgia:  *July 2011 - Jan 2013*  (Republic of Georgia) 
+#### Teach & Learn with Georgia:  *July 2011 - Jan 2013*  (Republic of Georgia) 
  **English as a Second Language Teacher**  
 
 + Classroom co-teaching in elementary schools  
 + Following curriculum and jointly preparing lesson plans  
 + Opening communication with teachers to exchange new educational techniques and perspectives
 
-###UCSC Perceptual Sciences Lab:  *Jan 2011 - June 2011*
+####UCSC Perceptual Sciences Lab:  *Jan 2011 - June 2011*
 **Language, Speech and Emotion Analyst Assistant**  
 
 +  Searching databases for appropriate speech corpora  
 +  Tagging and labeling speech files using Praat  
 
-###UCSC Linguistics Department: *April 2011 - June 2011*  
+####UCSC Linguistics Department: *April 2011 - June 2011*  
 **Tutor for Native American Languages Course**  
 
 +  Grading weekly written assignments  
 +  Maintaining office hours to address student questions  
 
-##**Relevant Coursework & Projects**
+###**Relevant Coursework & Projects**
 
 **Introduction to Programming in Java**  
 _2009,_ UCSC  
