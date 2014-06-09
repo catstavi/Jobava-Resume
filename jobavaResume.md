@@ -4,7 +4,7 @@ Cate Jobava
 
 ###**Objective**
 
-I am looking to expand and deepen my introductory knowledge of programming and computer science into a skill set that will let me develop my own applications, as well as give me the tools to contribute substantially to the work of teams on larger scale projects in a professional environment. As a long term goal, I would like to develop expertise in the area of Natural Language Processing.
+I am looking to expand and deepen my introductory knowledge of programming and computer science into an employable level. I want to  a skill set that will let me create my own applications, as well as give me the tools to contribute substantially to the work of teams on larger scale projects in a professional environment. As a long term goal, I would like to develop expertise in the area of Natural Language Processing.
 
 ###**Education**
 
@@ -20,9 +20,8 @@ GPA 3.56
 +  Registering new and returning clients to satisfactorily fit students' needs
 +  Processing client payments and refunds, maintaining current accounts and invoices
 +  Coordinating the schedule of 10 part-time instructors, with over 60 lessons taught in a day
-+  Initiating a timely response to all incoming communication via phone and email with current and prospective clients
++  Initiating a timely response to all incoming communication via phone and email with current and prospective clients  
 
- 
 **Swim Instructor**  
 
 +   Teaching children & adults of all ages and levels of experience  
@@ -36,7 +35,7 @@ GPA 3.56
 +  Informing clients about of facility rules  
 
 #### Teach & Learn with Georgia:  *July 2011 - Jan 2013*  (Republic of Georgia) 
- **English as a Second Language Teacher**  
+**English as a Second Language Teacher**  
 
 + Classroom co-teaching in elementary schools  
 + Following curriculum and jointly preparing lesson plans  
@@ -57,12 +56,13 @@ GPA 3.56
 
 ###**Relevant Coursework & Projects**
 
-**Introduction to Programming in Java**  
-_2009,_ UCSC  
-
-**Language Engineering**  
-_2011,_ UCSC   
-Students worked in teams, using Python to load and manipulate large language corpora. Programming in this course focused mainly around manipulating strings.
+**Introduction to Computer Science: Programming Methodology**  
+_In Progress,_ Stanford Online  
+Latest Project: The game "Breakout" in Java. [See it on my github account.] (https://github.com/catstavi/Breakout/blob/master/Breakout.java "Breakout")
+   
+**Introduction to Computer Science**  
+_In Progress,_ Harvard Online on edX  
+Latest Project: "Change Counter" in C. [See it on my github account.] (https://github.com/catstavi/changeCounter/blob/master/changeCounter.c "Change Counter")   
 
 **Computer Science 101**  
 _2013,_ Stanford Online on Coursera  
@@ -70,10 +70,10 @@ _2013,_ Stanford Online on Coursera
 **Computer Networks**  
 _2013,_ University of Washington on Coursera  
 
-**Introduction to Computer Science: Programming Methodology**  
-_In Progress,_ Stanford Online  
-Latest Project: The game "Breakout" in Java. See it on my github account.
-   
-**Introduction to Computer Science**  
-_In Progress,_ Harvard Online on edX  
-Latest Project: "Change Counter" in C. See it on my github account   
+**Language Engineering**  
+_2011,_ UCSC   
+Students worked in teams, using Python to load and manipulate large language corpora. Programming in this course focused mainly around manipulating strings.
+
+**Introduction to Programming in Java**  
+_2009,_ UCSC  
+
